@@ -25,6 +25,7 @@
     <string name="login_btn">Login</string>
     <string name="settings_btn">Settings</string>
     <string name="settings_fact_type_title">Fun Fact Type</string>
+    <string name="settings_button_text">Settings</string>
 
     <string name="fact_type_android">Android</string>
     <string name="fact_type_california">California</string>
